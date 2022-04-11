@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\Program Files\RevitAPITraining\RevitAPILab_6_2_PlaceFurniture.dll"</Assembly>
+    <AddInId>07393A7E-1DBB-469B-97C6-AB7A2DB71E49</AddInId>
+    <FullClassName>RevitAPILab_6_2_PlaceFurniture.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Расставить мебель</Text>
+  </AddIn>
+</RevitAddIns>
+
